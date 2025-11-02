@@ -58,5 +58,6 @@ Comando de ejecución:
 Dependencias:
 
 FIFO: `<stdio.h>`, `<stdlib.h>` para entrada/salida y manejo básico de memoria
+
 LRU: `<stdio.h>`, `<stdlib.h>`, `<string.h>` para uso de `strtok()` para procesar CSV 
 
